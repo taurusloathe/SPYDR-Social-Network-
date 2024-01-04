@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>SPYDR Social</title>
+</head>
+<body>
+
+  <div class="profile-container">
+    <div class="profile-header">
+      <img class="profile-picture" src="content://com.android.providers.media.documents/document/image%3A80404" alt="Profile Picture">
+      <h1 class="profile-name">Nate Nvrmnd</h1>
+    </div>
+  </div>
+
+  <div class="tabs">
+    <button onclick="openTab('posts')">Posts</button>
+    <button onclick="openTab('pictures')">Pictures</button>
+    <button onclick="openTab('editProfile')">Edit Profile</button>
+    <button onclick="openTab('friends')">Friends</button>
+    <button onclick="openTab('messages')">Messages</button>
+    <button onclick="openTab('notifications')">Notifications</button>
+  </div>
+
+  <div id="messages" class="tab-content">
+    <!-- Messaging content goes here -->
+  </div>
+
+  <div id="notifications" class="tab-content">
+    <!-- Notifications content goes here -->
+  </div>
+
+  <div class="content-container">
+    <div id="posts" class="tab-content">
+      <h2>What's in your web?</h2>
+      <div class="post-status-section">
+        <textarea id="statusContent" placeholder="Spin your web..."></textarea>
+        <input type="file" accept="image/*" id="statusImageUpload" />
+        <button onclick="postStatus()">Spin</button>
+      </div>
+      <!-- Display posted statuses here, using a loop if dynamic -->
+    </div>
+
+    <div id="pictures" class="tab-content">
+      <!-- Content for Pictures tab -->
+      <!-- You can use a loop to display pictures dynamically -->
+    </div>
+
+    <div id="editProfile" class="tab-content">
+      <h2>Edit Your Profile</h2>
+      <form>
+        <label for="bio">Bio:</label>
+        <textarea id="bio" name="bio" placeholder="Tell something about yourself..."></textarea>
+
+        <label for="birthdate">Birthdate:</label>
+        <input type="date" id="birthdate" name="birthdate">
+
+        <!-- Add more fields as needed -->
+
+        <button type="submit">Save Changes</button>
+      </form>
+    </div>
+
+    <div id="friends" class="tab-content">
+      <h2>Your Friends</h2>
+      <div class="friends-grid">
+        <div class="friend-profile">
+          <img src="friend1.jpg" alt="Friend 1">
+          <p>Friend 1</p>
+        </div>
+        <div class="friend-profile">
+          <img src="friend2.jpg" alt="Friend 2">
+          <p>Friend 2</p>
+        </div>
+        <!-- Add more friend profiles as needed -->
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
