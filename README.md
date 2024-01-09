@@ -1,6 +1,6 @@
 # SPYDR-Social-Network-
 Currently under development
-![Screenshot_20240104-001437](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/f59b8789-d54b-462c-bbb0-8b2782ecf280)
+![Screenshot_20240108-142334](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/44c2a60d-c7d9-4936-84cf-36726e1fbf3b)
 # Edit your profile 
 ![Screenshot_20240104-001456](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/b492aaec-0e76-48dc-9c82-b9c1e3faeb3a)
 # View your friends list
