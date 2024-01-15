@@ -20,11 +20,11 @@ const User = mongoose.model('User', userSchema);
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.get('/', (req, res) => {
-  res.send('Welcome to SPYDR Social Signup Page!');
+  res.send('Sign Up for SPYDR Social');
 });
 
 app.get('/signup', (req, res) => {
-  res.sendFile(__dirname + '/signup.html');
+  res.sendFile(__dirname + '/sign-up.html');
 });
 
 app.post('/signup', async (req, res) => {
