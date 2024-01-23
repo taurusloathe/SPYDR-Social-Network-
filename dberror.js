@@ -1,6 +1,6 @@
 app.post('/register', async (req, res) => {
   try {
-    // Your registration logic here
+    // Registration logic here
     // ...
   } catch (error) {
     console.error(error.message);
