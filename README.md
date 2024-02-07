@@ -1,5 +1,6 @@
 # SPYDR-Social-Network-
-Currently under development
+A social network under construction that aims to give creators a place to monetize the content they post, and eliminate too much overeach in censorship. 
+SPYDR Social will allow peer-to-peer payment transactions between friends, and opportunity to earn tokens and investment exposure for increased activity on your page. 
 # Sign Up
 ![Screenshot_20240113-182718](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/021d3482-cbad-4f0d-a73d-e97481846a45)
 # Login
