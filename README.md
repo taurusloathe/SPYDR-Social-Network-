@@ -12,5 +12,5 @@ As the user earns tokens, they can accrue in value like an investment, which is 
 ![Screenshot_20240104-001501](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/72582303-262b-4a32-b0de-8ce43dafcd28)
 # Share content and interact with your friends!
 ![Screenshot_20240108-142334](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/44c2a60d-c7d9-4936-84cf-36726e1fbf3b)
-You can sell the tokens for Ethereum by interacting with the SPYDR DEX that is being built into the platform. I am working on making the DEX more user friendly for people unfamiliar with cryptocurrency.
+You can sell the tokens for Ethereum by interacting with the SPYDR DEX youll be able to access from the platform. I am working on making the DEX more user friendly for people unfamiliar with cryptocurrency.
 ![Polish_20231226_212101364](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/bfa7524f-ab9f-46cb-9975-aecea05006c6)
