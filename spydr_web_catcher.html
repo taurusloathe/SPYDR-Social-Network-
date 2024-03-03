@@ -82,7 +82,7 @@
         if (!ant.frozen && x >= ant.x && x <= ant.x + antSize && y >= ant.y && y <= ant.y + antSize) {
           ant.frozen = true;
           score++;
-          if (score === 5) {
+          if (score === 10) {
             document.title = "🕷️ YOU WON! 🕷️"; // Set the title when the user wins
             window.alert("Congratulations! You won 1 SPYDR token!");
             // Add code to handle winning SPYDR token
