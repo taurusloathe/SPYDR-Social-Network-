@@ -66,8 +66,8 @@
     }
 
     function drawScore() {
-      ctx.fillStyle = 'white';
-      ctx.font = '30px serif';
+      ctx.fillStyle = 'green';
+      ctx.font = '40px Impact';
       ctx.fillText('Score: ' + score, 10, 30); // Adjusted position for better visibility on mobile screens
     }
 
