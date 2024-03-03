@@ -17,5 +17,5 @@ As the user earns tokens, they can accrue in value like an investment, which is 
 
 ![Polish_20240303_173211203](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/921fb256-e371-4e96-b7c2-e375555bfa0b)
 
-# Exchange the tokens for ETH by interacting with the SPYDR Token DApp you can access on the your homepage!
+# Exchange the tokens for ETH by interacting with the SPYDR Token DApp you can access on your homepage!
 ![Polish_20231226_212101364](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/bfa7524f-ab9f-46cb-9975-aecea05006c6)
