@@ -31,14 +31,14 @@
     canvas.height = screenHeight;
 
     const spiderSize = 50; // Adjusted for better visibility on mobile screens
-    const antSize = 40; // Adjusted for better visibility on mobile screens
+    const antSize = 30; // Adjusted for better visibility on mobile screens
     const webSymbol = "🕸️";
 
     const spiderSymbol = "🕸️";
     const antSymbol = "🐜";
     let spiderPos = { x: screenWidth / 2, y: screenHeight - 75 }; // Adjusted for better placement on mobile screens
     let ants = [];
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 12; i++) {
       let ant = {
         x: Math.random() * (screenWidth - antSize),
         y: Math.random() * (screenHeight - antSize),
