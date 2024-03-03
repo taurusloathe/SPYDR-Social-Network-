@@ -13,9 +13,9 @@ As the user earns tokens, they can accrue in value like an investment, which is 
 # Share content and interact with your friends!
 ![Screenshot_20240108-142334](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/44c2a60d-c7d9-4936-84cf-36726e1fbf3b)
 # Collect SPYDR tokens from SPYDR Web Catcher game and from follower engagement
-![Screenshot_20240302-171919](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/0283c629-25ee-4240-ac2e-de31b35caed8)
+![Screenshot_20240303-172911](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/647ce5b2-d6db-4d54-8ef0-1ffd6d832141)
 
-![Polish_20240302_230247110](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/05b12b39-b823-4672-9136-ef53c61861b3)
+![Polish_20240303_173211203](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/921fb256-e371-4e96-b7c2-e375555bfa0b)
 
 You can sell the tokens for Ethereum by interacting with the SPYDR DEX youll be able to access from the platform. I am working on making the DEX more user friendly for people unfamiliar with cryptocurrency.
 ![Polish_20231226_212101364](https://github.com/taurusloathe/SPYDR-Social-Network-/assets/110080228/bfa7524f-ab9f-46cb-9975-aecea05006c6)
